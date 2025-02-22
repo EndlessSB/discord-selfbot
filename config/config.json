@@ -1,0 +1,9 @@
+{
+    "prefix": ".",
+    "main_account_id": "YOURE_USER_ID_HERE",
+    "spotify_token": "YOUR_SPOTIFY_TOKEN_HERE",
+    "afk": {
+        "enabled": false,
+        "message": "I am not avalible right now."
+    }
+}
