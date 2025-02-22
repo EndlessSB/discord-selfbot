@@ -10,12 +10,12 @@ import sys
 import datetime
 from contextlib import redirect_stdout
 import re
-from get_song import get_current_song
+
 
 # Import other functions / files / needed packages
 from discord.ext import commands
 from dotenv import load_dotenv
-
+from get_song import get_current_song
 
 # Load the token from the .env file
 load_dotenv()
